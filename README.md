@@ -1,6 +1,6 @@
 # Form tracker for IPPT Stations
 
-<p>Created this programme to prepare for IPPT (push-up and sit-up stations), and to experiment with OpenCV/ Mediapipe. Included libraries to be installed in the notebook.
+<p>Created this programme to prepare for IPPT (push-up and sit-up stations) and to experiment with OpenCV/ Mediapipe. Included libraries to be installed in the notebook.
 </p>
 
 **Data points**<br /><br />
